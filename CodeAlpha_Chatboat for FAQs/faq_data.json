@@ -1,0 +1,22 @@
+[
+    {
+        "question":"What is your name?",
+        "answer":"I am an FAQ chatbot."
+    },
+    {
+        "question":"How can I contact support?",
+        "answer":"Email us at support@example.com"
+    },
+    {
+        "question":"What are your working hours?",
+        "answer":"Monday to Friday, 9 AM to 6 PM."
+    },
+    {
+        "question":"Where are you located?",
+        "answer":"We are located in Bangalore."
+    },
+    {
+        "question":"Do you offer internships?",
+        "answer":"Yes, we offer internships."
+    }
+]
